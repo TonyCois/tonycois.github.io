@@ -2320,3 +2320,8 @@ h1.notion-header__title{
 article .notion-text .notion-text__content .notion-semantic-string strong {
     display: inline !important;
 }
+
+
+.gallery .notion-collection-card__property .notion-semantic-string {
+ display:block !important;
+}
